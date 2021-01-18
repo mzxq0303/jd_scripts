@@ -1,6 +1,4 @@
 # ！！！无脑fork的人,会在第一时间把你Block掉！！！
-# 不要fork!不要fork!不要fork!不要fork!不要fork!不要fork!不要fork!不要fork!不要fork!
-
 
 ## 特别声明: 
 
